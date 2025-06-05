@@ -37,7 +37,7 @@ Everything is styled using **pure CSS**, with a strong focus on **responsive des
 
 ## 🌍 Live Preview
 
-👉 [View the live site here](https://github.com/l3miage-elaouadz/personal-portfolio)  
+👉 [View the live site here](https://github.com/Zineb1237789/personal-portfolio)  
 *(replace with your actual GitHub Pages link)*
 
 ---
