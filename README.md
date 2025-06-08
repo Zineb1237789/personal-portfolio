@@ -32,7 +32,6 @@ Everything is styled using **pure CSS**, with a strong focus on **responsive des
 - ✅ Hosted with GitHub Pages
 
 ---
-## 🌍 Live Preview
+## Contact 📧
 
-👉 [View the live site here]([https://github.com/Zineb1237789/personal-portfolio](https://zineb1237789.github.io/personal-portfolio/))  
-
+Created by [Zineb EL AOUAD](https://zineb1237789.github.io/personal-portfolio/) - feel free to reach out!!
