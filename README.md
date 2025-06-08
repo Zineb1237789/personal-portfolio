@@ -9,6 +9,8 @@
 🌐 Develop web projects with clean and modern interfaces<br/>
 🔧 Explore DevOps practices and improve CI/CD pipelines<br/>
 🧩 Solve complex problems with simple, elegant solutions<br/>
+---
+
 Everything is styled using **pure CSS**, with a strong focus on **responsive design**, so the website looks good on desktop, tablet, and mobile screens.
 
 ---
