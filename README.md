@@ -34,5 +34,5 @@ Everything is styled using **pure CSS**, with a strong focus on **responsive des
 ---
 ## 🌍 Live Preview
 
-👉 [View the live site here](https://github.com/Zineb1237789/personal-portfolio)  
+👉 [View the live site here]([https://github.com/Zineb1237789/personal-portfolio](https://zineb1237789.github.io/personal-portfolio/))  
 
