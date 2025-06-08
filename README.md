@@ -15,13 +15,8 @@ Everything is styled using **pure CSS**, with a strong focus on **responsive des
 
 ---
 
-## 🚀 Technologies Used
-
-- HTML5
-- CSS3 (no frameworks)
-- Responsive Design using Flexbox and Media Queries
-- Font Awesome & Devicon for icons
-- Google Fonts for typography
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 ---
 
